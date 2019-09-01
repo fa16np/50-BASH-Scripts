@@ -4,7 +4,7 @@
 
 | File | Description |
 | --- | --- |
-| -sp.sh || secret(hidden) input
+| -sp.sh |  secret(hidden) input | 
 | AddTestToFile.sh ||
 | Array_1.sh ||
 | Arrays_2.sh ||
