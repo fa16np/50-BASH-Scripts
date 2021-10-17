@@ -1,5 +1,5 @@
-# 50-BASH-Scripts
-50 bash scripts I created while learning bash. This covers almost all introductory topics.
+# 46-BASH-Scripts
+46 bash scripts I created while learning bash. This covers almost all introductory topics.
 
 
 | File | Description |
