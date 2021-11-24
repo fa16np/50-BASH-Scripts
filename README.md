@@ -24,8 +24,9 @@
 | case_1.sh | Case eg|
 | for-Loop_2.sh | For loops advance |
 | for-loop_1.sh | For loops intro |
-| function_2.sh ||
-| functions_1.sh ||
+| function_2.sh | Functions advanced |
+| functions_1.sh | Functions intro |
+| Parameter.sh | Parameter usage |
 | if_int_comp.sh ||
 | if_int_comp2.sh ||
 | int_comp.sh ||
