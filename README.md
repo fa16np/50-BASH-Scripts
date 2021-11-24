@@ -4,33 +4,26 @@
 
 | File | Description |
 | --- | --- |
-| -sp.sh |  secret(hidden) input | 
-| AddTestToFile.sh ||
-| Array_1.sh ||
-| Arrays_2.sh ||
-| Basics.sh ||
-| CreatingShellFil.sh ||
-| Debugging.sh ||
-| Expr.sh ||
-| File_chks.sh ||
-| Ops-and-or.sh ||
-| Parameter.sh ||
-| PosPrmtr.sh ||
-| PrintFilesInADir.sh ||
-| Regex.sh || 
-| Strings.sh ||
-| Trenary.sh ||
-| Variable.sh ||
-| VartoArray.sh ||
-| bc-Operations.sh ||
-| bc-Scale.sh ||
-| bc-Sp.Ops.sh ||
-| break_Continue.sh ||
-| case-Expr.sh ||
-| case_1.sh ||
-| case_1.sh ||
-| for-Loop_2.sh ||
-| for-loop_1.sh ||
+| -sp.sh |  Secret(hidden) input | 
+| AddTestToFile.sh | Add to file |
+| Array_1.sh | Arrays intro |
+| Arrays_2.sh | Arrays topics |
+| Basics.sh | Basic topics |
+| CreatingShellFil.sh | Creating and opening |
+| Debugging.sh | Debugging tool |
+| Expr.sh | Math calculation 'expr' |
+| File_chks.sh | File attributes check |
+| Ops-and-or.sh | Operators |
+| VartoArray.sh | Variable to array |
+| bc-Operations.sh | Binary calculator ext. |
+| bc-Scale.sh | Decimal point scale |
+| bc-Sp.Ops.sh | Special operation |
+| break_Continue.sh | Break and continue |
+| case-Expr.sh | Kind of switch statement |
+| case_1.sh | Case eg |
+| case_1.sh | Case eg|
+| for-Loop_2.sh | For loops advance |
+| for-loop_1.sh | For loops intro |
 | function_2.sh ||
 | functions_1.sh ||
 | if_int_comp.sh ||
